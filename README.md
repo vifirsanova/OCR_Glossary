@@ -9,3 +9,5 @@
 * основы работы с Google Colab
 * базовые методы обработки текста
 * знакомство с NLTK, Spacy, Pandas
+
+Ноутбук Jupiter II: [workbook_collocations.ipynb][https://github.com/vifirsanova/OCR_Glossary/blob/main/workbook_collocations.ipynb]
