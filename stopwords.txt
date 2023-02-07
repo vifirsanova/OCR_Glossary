@@ -1,0 +1,5 @@
+commons
+edition
+educational
+figure
+table
