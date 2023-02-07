@@ -11,3 +11,11 @@
 * знакомство с NLTK, Spacy, Pandas
 
 Ноутбук Jupiter II: [workbook_collocations.ipynb](https://github.com/vifirsanova/OCR_Glossary/blob/main/workbook_collocations.ipynb)
+
+Ноутбук Jupiter III: [workbook_gensim_phrases.ipynb](https://github.com/vifirsanova/OCR_Glossary/blob/main/workbook_gensim_phrases.ipynb)
+* обновлены версии библиотек 
+* внесены изменения в токенизацию
+* добавлен подробный разбор Gensim
+* функция для пополнения списка стоп-слов
+* модель для n-грамм
+* лемматизация финального списка n-грамм
